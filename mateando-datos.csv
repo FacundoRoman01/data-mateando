@@ -1,0 +1,16 @@
+id_linea,pedido,fecha,sku,cantidad,precio_unitario,descuento_linea,medio_pago,estado
+L001,P001,01/09/2026,m001,2,"$ 30.000,00",0,MP,PAGADA
+L002,P001,01/09/2026,B001,2,"7.000,00",0,mercado pago,pagada
+L003,P002,2026-09-03,M002,1,"80.000,00","5.000,00",Transferencia,pagada
+L004,P003,05/09/2026,S001,1,"120.000,00","10.000,00",efectivo,pagada
+L005,P004,08/09/2026,M001,3,"30.000,00","9.000,00",mp,pagada
+L006,P005,10/09/2026,B001,5,"7.000,00",0,EFECTIVO,pagada
+L007,P006,12/09/2026,M002,2,"80.000,00",0,transferencia,pagada
+L008,P007,15/09/2026,S001,2,"120.000,00","20.000,00",MP,pagada
+L009,P008,18/09/2026,M001,4,"30.000,00",0,efectivo,pagada
+L010,P009,21/09/2026,B001,8,"7.000,00","8.000,00",mercado pago,pagada
+L011,P010,25/09/2026,M002,1,"80.000,00",0,transferencia,pagada
+L012,P011,30/09/2026,S001,1,"120.000,00",0,efectivo,pagada
+L005,P004,08/09/2026,M001,3,"30.000,00","9.000,00",mp,pagada
+L013,P012,20/09/2026,M001,1,"30.000,00",0,efectivo,cancelada
+L014,P013,22/09/2026,X999,1,"50.000,00",0,efectivo,pagada
