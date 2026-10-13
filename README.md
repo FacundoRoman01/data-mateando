@@ -1,2 +1,3 @@
 Diseñé y desarrollé un pipeline de datos automatizado para una plataforma de comercio. El proyecto consistió en la ingesta y almacenamiento de transacciones en una base de datos SQLite, el procesamiento y modelado de datos mediante consultas SQL y Python (Pandas) para generar métricas clave (evolución temporal, ranking de productos y control de estados), y finalmente la construcción de un dashboard ejecutivo en Looker Studio para la toma de decisiones gerenciales en tiempo real.
-<img width="1920" height="2117" alt="screencapture-datastudio-google-u-0-reporting-f43e500c-7789-4799-8071-708acbf6486c-page-QZ7AG-2026-10-13-09_34_12" src="https://github.com/user-attachments/assets/8f07b05a-eeec-464c-9a41-2ff756301fed" />
+<img width="1920" height="2817" alt="screencapture-datastudio-google-u-0-reporting-f43e500c-7789-4799-8071-708acbf6486c-page-QZ7AG-2026-10-13-16_50_16" src="https://github.com/user-attachments/assets/d53c44bc-4485-4fd5-b94b-d839c2478b6b" />
+
